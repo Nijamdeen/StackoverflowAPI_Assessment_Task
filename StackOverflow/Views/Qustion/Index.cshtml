@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<button id="Refresh" type="button">Refresh</button>
+@*<table>
+    <tbody id="data-rows">
+        
+    </tbody>
+</table>*@
+<div id="template" class="hidden">
+    <div class="card">
+        <div class="card-block">
+            <h4 class="card-title" id="name">Card title</h4>
+            <h6 class="card-subtitle mb-2 text-muted" id="date">Card subtitle</h6>
+            <p class="card-text" id="title">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" class="card-link" id="view">Card link</a>
+            <a href="#" class="card-link" id="viewpopup">Another link</a>
+        </div>
+    </div>
+</div>
+<div class="list-group" id="data-rows">
+    
+</div>
+@section scripts{
+
+<script src="~/Scripts/Questions/stk.Question.js"></script>
+    <script>
+        $(function () { 
+            StackOverflow.UI.Question.RefreshQuestionsList();
+        })
+    </script>
+    }
+

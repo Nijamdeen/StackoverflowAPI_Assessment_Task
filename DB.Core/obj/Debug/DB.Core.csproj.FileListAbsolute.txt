@@ -1,0 +1,10 @@
+E:\StackOverflow\DB.Core\bin\Debug\DB.Core.dll
+E:\StackOverflow\DB.Core\bin\Debug\DB.Core.pdb
+E:\StackOverflow\DB.Core\obj\Debug\DB.Core.csprojResolveAssemblyReference.cache
+E:\StackOverflow\DB.Core\obj\Debug\DB.Core.dll
+E:\StackOverflow\DB.Core\obj\Debug\DB.Core.pdb
+C:\Users\hafiz\Downloads\Stackoverflow-master\Stackoverflow-master\StackOverflow\StackOverflow\DB.Core\bin\Debug\DB.Core.dll
+C:\Users\hafiz\Downloads\Stackoverflow-master\Stackoverflow-master\StackOverflow\StackOverflow\DB.Core\bin\Debug\DB.Core.pdb
+C:\Users\hafiz\Downloads\Stackoverflow-master\Stackoverflow-master\StackOverflow\StackOverflow\DB.Core\obj\Debug\DB.Core.csprojResolveAssemblyReference.cache
+C:\Users\hafiz\Downloads\Stackoverflow-master\Stackoverflow-master\StackOverflow\StackOverflow\DB.Core\obj\Debug\DB.Core.dll
+C:\Users\hafiz\Downloads\Stackoverflow-master\Stackoverflow-master\StackOverflow\StackOverflow\DB.Core\obj\Debug\DB.Core.pdb

@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<div class="container-fluid">
+
+    @*<table>
+            <tbody id="data-rows">
+
+            </tbody>
+        </table>*@
+    <div class="panel panel-default" style="margin-top:10px;" id="panel">
+        <div class="panel-heading">
+           <span> Question's</span>
+            <span>
+                <a id="Refresh" class="" title="Refresh" style="float: right;margin-top: -4px;">
+                    <img src="~/Content/Images/refresh.png" style="height:30px;width:28px" /></a>
+            </span>
+        </div>
+        <div class="panel-body">
+            <div class="list-group" id="data-rows">
+
+            </div>
+        </div>
+    </div>
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLongTitle">Sample Data</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr style="background-color:cornflowerblue;">
+                                <td>Sr.</td>
+                                <td>Name</td>
+                                <td>Description</td>
+
+                            </tr>
+                        </thead>
+                        <tbody id="tbody"></tbody>
+                    </table>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Back</button>
+                    @*<button type="button" class="btn btn-primary">Save changes</button>*@
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts{
+
+    <script src="~/Scripts/Questions/stk.Question.js"></script>
+    <script>
+        $(function () {
+            StackOverflow.UI.Question.RefreshQuestionsList();
+            StackOverflow.UI.Question.GetSampleData();
+        })
+    </script>
+}
+

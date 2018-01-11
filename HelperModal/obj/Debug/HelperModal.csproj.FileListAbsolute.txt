@@ -1,0 +1,10 @@
+E:\StackOverflow\HelperModal\bin\Debug\HelperModal.dll
+E:\StackOverflow\HelperModal\bin\Debug\HelperModal.pdb
+E:\StackOverflow\HelperModal\obj\Debug\HelperModal.csprojResolveAssemblyReference.cache
+E:\StackOverflow\HelperModal\obj\Debug\HelperModal.dll
+E:\StackOverflow\HelperModal\obj\Debug\HelperModal.pdb
+C:\Users\hafiz\Downloads\Stackoverflow-master\Stackoverflow-master\StackOverflow\StackOverflow\HelperModal\bin\Debug\HelperModal.dll
+C:\Users\hafiz\Downloads\Stackoverflow-master\Stackoverflow-master\StackOverflow\StackOverflow\HelperModal\bin\Debug\HelperModal.pdb
+C:\Users\hafiz\Downloads\Stackoverflow-master\Stackoverflow-master\StackOverflow\StackOverflow\HelperModal\obj\Debug\HelperModal.csprojResolveAssemblyReference.cache
+C:\Users\hafiz\Downloads\Stackoverflow-master\Stackoverflow-master\StackOverflow\StackOverflow\HelperModal\obj\Debug\HelperModal.dll
+C:\Users\hafiz\Downloads\Stackoverflow-master\Stackoverflow-master\StackOverflow\StackOverflow\HelperModal\obj\Debug\HelperModal.pdb
